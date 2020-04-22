@@ -1,5 +1,5 @@
 {
-    "name": "mail-test",
+    "name": "umzhou/mail_test",
     "description": "测试",
     "type": "library",
     "license": "MIT",
@@ -12,6 +12,7 @@
         {
             "name": "Yuki",
             "email": "756729874@qq.com"
+
         }
     ],
     "minimum-stability": "dev",
