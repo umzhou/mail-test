@@ -1,6 +1,6 @@
 {
-    "name": "mail-test/master",
-    "description": "a test for mail service",
+    "name": "mail-test",
+    "description": "测试",
     "type": "library",
     "license": "MIT",
     "autoload": {
